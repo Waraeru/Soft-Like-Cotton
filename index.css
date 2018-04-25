@@ -64,18 +64,18 @@ p {
 }
 
 img {
-	height: 200px;
-	width: 250px;
+	height: 80%;
+	width: 80%;
 	margin: 0 50px;
 }
 
-.row_img1 { 
-	padding: 0 30px;
-
+.img1 {
+	align-items: center;
 }
 
 .button {
 	padding: 0 120px;
+	text-align: center;
 }
 
 footer {
